@@ -1,2 +1,2 @@
 # Portfolio
-My projects
+My projects created in NetBeans.
